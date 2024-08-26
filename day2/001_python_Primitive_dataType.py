@@ -26,5 +26,5 @@ print(type(False)) # <class 'bool'>
 # None
 None
 print(type(None)) # <class 'NoneType'>
-a = print("Hello")
-print(a) # <class 'NoneType'>
+a = print("Hello") # Hello
+print(a) # None
